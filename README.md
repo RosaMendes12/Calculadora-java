@@ -85,7 +85,7 @@ public class Numero {
 Este projeto é de uso livre para fins educacionais.
 
 
-**🙋‍♂️ Autor**
+#🙋‍♂️ Autor#
 
 Rosa Mendes
 
