@@ -50,7 +50,8 @@ javac Calc.java Numero.java
 
 java Calc
 
-4.Siga as instruções no terminal. Digite s para continuar somando ou qualquer outra letra para encerrar o programa.
+4.Siga as instruções no terminal. Digite s para continuar somando ou qualquer outra letra para encerrar o
+ programa.
 
 
 
