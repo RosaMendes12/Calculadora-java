@@ -34,25 +34,25 @@ Calc/
 └── README.md
 
 
-**▶️ Como executar**
+▶️ Como executar
 
-**1. Clone o repositório:**
+1. Clone o repositório:
 
 git clone https://github.com/seu-usuario/Calc.git
 cd Calc
 
-**2.Compile os arquivos Java:**
+2.Compile os arquivos Java:
 
 javac Calc.java Numero.java
 
-**3.Execute o programa:**
+3.Execute o programa:
 
 java Calc
 
-**4.Siga as instruções no terminal. Digite s para continuar somando ou qualquer outra letra para encerrar o programa.**
+4.Siga as instruções no terminal. Digite s para continuar somando ou qualquer outra letra para encerrar o programa.
 
 
-**✏️ Exemplo de uso**
+✏️ Exemplo de uso
 
 Digite o valor 1: 10
 
@@ -62,7 +62,7 @@ A soma de 10 com 25 é igual a 35
 
 Se deseja somar outro valor, digite: s
 
-**👨‍💻 Classe Numero**
+👨‍💻 Classe Numero
 
 A classe Numero deve conter os métodos setValor(int valor) e getValor() para armazenar e recuperar os valores digitados. Exemplo:
 
@@ -80,12 +80,12 @@ public class Numero {
 
 
 
-**📄 Licença**
+📄 Licença
 
 Este projeto é de uso livre para fins educacionais.
 
 
-#🙋‍♂️ Autor#
+🙋‍♂️ Autor
 
 Rosa Mendes
 
